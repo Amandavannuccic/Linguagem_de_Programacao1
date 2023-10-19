@@ -3,7 +3,7 @@
 Neste repositório contém os desafios propostos ao longo das aulas de LP1.
 
 Lista_De_Exercicios:
-- Realizar os exercícios de 1 a 91;
+- Realizar os exercícios de 1 a 76;
 - Implemente em Java os exercícios;
 - Escolha 10 itens e faça o teste de mesa.
 
