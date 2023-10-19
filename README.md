@@ -13,7 +13,7 @@ Escolher 10 figuras e:
 - Elaborar a classe Teste que deve conter objetos de todas as 10 classes e execução de alguns dos respectivos métodos;
 - Postar no Github.
 
-Estrutura de dados em Java:
+Estrutura_de_dados_Java:
 Considerando o material em anexo, resolva os exercícios 77 a 91, utilizando Linguagem Java.
 A resolução de cada exercício deve conter:
 a) resolução usando array ou vetores.
