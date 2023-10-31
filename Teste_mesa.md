@@ -1,11 +1,5 @@
 Teste de Mesa:
 
-Exercício 77
-
-| xx | xx | xx | xx | xx | xx | xx |
-|--|--|--|--|--|--|--|
-
-
 Exercício 78
 
 | Passo | Ação| Mensagem | entrada | Variáveis/Estado|
